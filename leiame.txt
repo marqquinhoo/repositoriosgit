@@ -1,0 +1,1 @@
+Aplicacao React JS onde é possível salvar os seus favoritos do GIT Hub e detalhar as issues com status open.
